@@ -1,0 +1,6 @@
+
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(ïÓÈ’8îûƒ£Ş-
+|squid:UselessImportCheck"QRemove this unused import 'com.sun.swing.internal.plaf.synth.resources.synth_sv'.(ïÓÈ’8îûƒ£Ş-
+1squid:S1220""Move this file to a named package.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(›æŒÁ8îûƒ£Ş-
